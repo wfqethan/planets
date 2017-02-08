@@ -1,4 +1,8 @@
 Interstellar
 
+<<<<<<< HEAD
 yongquan edited the venus file 
 Date at 2/8/2017
+
+Ethan has edited this page.
+>>>>>>> d9404bf9efc3bf6cb60bc694dad923975edda5f3
